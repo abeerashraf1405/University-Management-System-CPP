@@ -16,7 +16,7 @@ A comprehensive, console-based management system engineered using custom Data St
 
 ## 💻 How to Run
 1. Clone the repository:
-   `git clone https://github.com/YOUR_USERNAME/University-Management-System-CPP.git`
+   `git clone https://github.com/abeerashraf1405/University-Management-System-CPP.git`
 2. Compile the code:
    `g++ UMS.cpp -o UMS`
 3. Run the executable:
